@@ -18,3 +18,4 @@ Laboratorio 3 Progra2 2024
   7. `git pull`: Descarga y fusiona los cambios del repositorio remoto con el repositorio local.
   
 
+![image](https://github.com/user-attachments/assets/b0d34f68-7d71-4a12-bd5f-cd3904eaa61a)
